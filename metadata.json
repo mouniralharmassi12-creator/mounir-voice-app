@@ -1,0 +1,6 @@
+{
+  "name": "Moroccan Darija Marketing Voice",
+  "description": "Generate high-quality marketing and sales voiceovers in Moroccan Darija tailored for reels, ads, products, and local promotions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
